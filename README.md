@@ -3,9 +3,9 @@ This project enables you to automatically generate the Model-View-Controller cod
 You can really save a lot of time for your projects.
 
 # User Guide
-Step 1: Copy the MVCCodeGenerator.php file in your controllers
-Step 2: Copy the generate_code_form.php file in your views
-Step 3: Fill out the form fields to generate boiler-plate code
+Step 1: Copy the MVCCodeGenerator.php file in your controllers  
+Step 2: Copy the generate_code_form.php file in your views  
+Step 3: Fill out the form fields to generate boiler-plate code  
 
 # Form Fields Description
 (i). component_name - refers to the entity you're generating code for, e.g., Employee, User
